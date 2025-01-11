@@ -5,7 +5,7 @@ I made some attractive Projects and also done an Internship with Top Company
 Skills: Java / Android Development / Flutter Development / MySql / 
 
 - 💬 Ask me about Development 
-- 📫 How to reach me: Call 7024520740 
+- 📫 How to reach me: Call +91 7024520740 
 - 😄 Pronouns: He / Him 
 
 
@@ -20,6 +20,4 @@ Skills: Java / Android Development / Flutter Development / MySql /
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandy-7061&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sandy-7061/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Sandy-7061)  
 
