@@ -1,23 +1,91 @@
-### Hi there 👋, I am Sandeep
-#### I am Software Developer
-I made some attractive Projects and also done an Internship with Top Company 
+# 👋 Hello, I'm Sandeep
 
-Skills: Java / Android Development / Flutter Development / MySql / 
+> **Full-Stack Mobile & Backend Developer** | Building Scalable & User-Centric Solutions
 
-- 💬 Ask me about Development 
-- 📫 How to reach me: Call +91 7024520740 
-- 😄 Pronouns: He / Him 
+I'm a passionate software developer with expertise in **Android Development**, **Flutter**, and **Backend Technologies**. I've successfully delivered multiple projects and completed internships with industry-leading companies. I love transforming ideas into elegant, efficient solutions that solve real-world problems.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sandy-7061)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sandeep5642/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/SandeepKushwaha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saim_7024/)  
+## 🎯 About Me
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+- 🚀 **Full-Stack Developer** specializing in mobile and cross-platform applications
+- 💡 **Problem Solver** with a passion for clean code and best practices
+- 🎓 **Continuous Learner** always exploring new technologies and methodologies
+- 🌟 **Experienced** in working on production-grade applications
+- 📱 **Mobile-First Mindset** with deep expertise in Android and Flutter ecosystems
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sandy-7061)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandy-7061)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Technical Skills
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandy-7061&show_icons=true&count_private=true)  
+### **Mobile Development**
+- **Android Development** - Java, Kotlin, Android SDK, Material Design
+- **Flutter** - Cross-platform mobile development, State Management (Provider, Bloc)
+- **Responsive UI/UX** - Creating beautiful and intuitive user interfaces
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sandy-7061/contributions?format=svg&private=true)  
+### **Backend & Databases**
+- **Languages** - Java, SQL
+- **Databases** - MySQL, Database Design & Optimization
+- **API Development** - RESTful APIs, Integration & Testing
+
+### **Tools & Technologies**
+- Git & Version Control
+- Android Studio, VS Code
+- Firebase, Cloud Services
+- Agile Development Methodologies
+
+---
+
+## 💼 Professional Experience
+
+- 🏢 **Internship with Top Company** - Gained hands-on experience in production development
+- 🚀 **Multiple Featured Projects** - Delivered high-quality applications with excellent user feedback
+- 📊 **Strong Problem-Solving Skills** - Specialized in debugging complex issues and optimization
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sandy-7061&theme=onestar&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandy-7061&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandy-7061&show_icons=true&count_private=true&theme=github_dark&hide_border=true)
+
+[![GitHub Contribution](https://api.vaunt.dev/v1/github/entities/Sandy-7061/contributions?format=svg&private=true)](https://github.com/Sandy-7061)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandy-7061)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep5642/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SandeepKushwaha)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saim_7024/)
+
+</div>
+
+---
+
+## 📞 Get In Touch
+
+- 💬 **Ask me about:** Development, Mobile Apps, Backend Solutions, Best Practices
+- 📧 **Phone:** [+91 7024520740](tel:+917024520740)
+- 😊 **Pronouns:** He / Him
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting! Don't forget to star my repositories if you find them helpful 🚀
+
+</div>
 
