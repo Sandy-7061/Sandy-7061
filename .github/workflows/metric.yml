@@ -1,8 +1,8 @@
-# ╔══════════════════════════════════════════════════════════════════════════╗
+# ╔════════════════════════════════════════════════════════════════[...]
 # ║  .github/workflows/metrics.yml  ·  Sandy-7061/Sandy-7061 repo          ║
 # ║  NO SERVER NEEDED — GitHub hosts all runners for free                   ║
 # ║  Runs daily at 2am IST automatically                                    ║
-# ╚══════════════════════════════════════════════════════════════════════════╝
+# ╚════════════════════════════════════════════════════════════════[...]
 
 name: ⚡ Update Metrics & Animations
 
@@ -133,8 +133,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  # ── JOB 8: 3D contribution graph (night rainbow theme) ──────────────────d kuch change kiya hai maine
-  3d-graph:
+  # ── JOB 8: 3D contribution graph (night rainbow theme) ──────────────────
+  graph_3d:
     name: 🌐 3D Contribution Graph
     runs-on: ubuntu-latest
     permissions:
