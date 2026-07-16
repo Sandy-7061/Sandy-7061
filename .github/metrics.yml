@@ -9,7 +9,7 @@ name: ⚡ Update Metrics & Animations
 on:
   schedule:
     - cron: "30 20 * * *"   # 2:00 AM IST daily (UTC 20:30)
-  workflow_dispatch:          # also runnable manually from Actions tabdd
+  workflow_dispatch:          # also runnable manually from Actions tab
   push:
     branches: [main]
 
