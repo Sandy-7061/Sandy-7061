@@ -1,4 +1,4 @@
-<!-- # 👋 Hello, I'm Sandeep
+<!-- # 👋 Hello, I'm Sandeepkusshwaha
 
 > **Full-Stack Mobile & Backend Developer** | Building Scalable & User-Centric Solutions
 
